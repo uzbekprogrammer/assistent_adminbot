@@ -1,5 +1,12 @@
-#  Created by Abdurahim Mahmudov
-#  Namangan, Uzbekistan
+"""
+
+Muallif: Mahmudov Abdurahim
+
+http://t.me/BaDBoY_DeV
+
+My portfolio: http://github.com/uzbekprogrammer
+
+"""
 from aiogram import Bot, Dispatcher, types
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 

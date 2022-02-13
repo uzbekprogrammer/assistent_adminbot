@@ -1,3 +1,12 @@
+"""
+
+Muallif: Mahmudov Abdurahim
+
+http://t.me/BaDBoY_DeV
+
+My portfolio: http://github.com/uzbekprogrammer
+
+"""
 from aiogram import types
 
 from filters import IsPrivate

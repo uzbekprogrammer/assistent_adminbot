@@ -1,3 +1,12 @@
+"""
+
+Muallif: Mahmudov Abdurahim
+
+http://t.me/BaDBoY_DeV
+
+My portfolio: http://github.com/uzbekprogrammer
+
+"""
 import logging
 from aiogram.utils.exceptions import (Unauthorized, InvalidQueryID, TelegramAPIError,
                                       CantDemoteChatCreator, MessageNotModified, MessageToDeleteNotFound,

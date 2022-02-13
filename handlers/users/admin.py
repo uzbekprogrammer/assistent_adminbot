@@ -1,9 +1,12 @@
-#
-#  INLAB Digital Copyright (c)  $originalComment.match("Copyright \(c\) (\d+)", 1, "-")2021.
-#
-#  Created by Abdurahim Mahmudov
-#  Please contact before making any changes
-#  Namangan, Uzbekistan
+"""
+
+Muallif: Mahmudov Abdurahim
+
+http://t.me/BaDBoY_DeV
+
+My portfolio: http://github.com/uzbekprogrammer
+
+"""
 import asyncio
 import re
 
