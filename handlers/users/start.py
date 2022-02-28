@@ -7,7 +7,7 @@ http://t.me/BaDBoY_DeV
 My portfolio: http://github.com/uzbekprogrammer
 
 """
-import sqlite3
+import pysqlite3
 
 from aiogram import types
 from aiogram.dispatcher.filters.builtin import CommandStart
@@ -30,7 +30,7 @@ async def bot_start(message: types.Message):
               f'\nID {user_id}.'
         await bot.send_message(chat_id=ADMINS[0], text=msg)
 
-    except sqlite3.IntegrityError as err:
+    except pysqlite3.IntegrityError as err:
         # await bot.send_message(chat_id=ADMINS[0], text=err)
         pass
     await message.answer(f"""Assalomu alaykum {message.from_user.full_name}! 
